@@ -1,0 +1,127 @@
+# List of all files
+
+## Ciphers
+  * [Atbashcipher](./Ciphers/AtbashCipher.php)
+  * [Caesarcipher](./Ciphers/CaesarCipher.php)
+  * [Monoalphabeticcipher](./Ciphers/MonoAlphabeticCipher.php)
+  * [Morsecode](./Ciphers/MorseCode.php)
+  * [Railfencecipher](./Ciphers/RailfenceCipher.php)
+  * [Vignerecipher](./Ciphers/VignereCipher.php)
+  * [Xorcipher](./Ciphers/XORCipher.php)
+
+## Conversions
+  * [Binarytodecimal](./Conversions/BinaryToDecimal.php)
+  * [Decimaltobinary](./Conversions/DecimalToBinary.php)
+  * [Hexadecimaltodecimal](./Conversions/HexadecimalToDecimal.php)
+  * [Octaltodecimal](./Conversions/OctalToDecimal.php)
+  * [Speedconversion](./Conversions/SpeedConversion.php)
+
+## Datastructures
+  * [Doublylinkedlist](./DataStructures/DoublyLinkedList.php)
+  * [Node](./DataStructures/Node.php)
+  * [Singlylinkedlist](./DataStructures/SinglyLinkedList.php)
+  * [Stack](./DataStructures/Stack.php)
+
+## Graphs
+  * [Breadthfirstsearch](./Graphs/BreadthFirstSearch.php)
+  * [Depthfirstsearch](./Graphs/DepthFirstSearch.php)
+
+## Maths
+  * [Absolutemax](./Maths/AbsoluteMax.php)
+  * [Absolutemin](./Maths/AbsoluteMin.php)
+  * [Armstrongnumber](./Maths/ArmstrongNumber.php)
+  * [Basex](./Maths/BaseX.php)
+  * [Checkpalindrome](./Maths/CheckPalindrome.php)
+  * [Checkprime](./Maths/CheckPrime.php)
+  * [Factorial](./Maths/Factorial.php)
+  * [Fastexponentiation](./Maths/FastExponentiation.php)
+  * [Fastinversesquareroot](./Maths/FastInverseSquareRoot.php)
+  * [Fibonacci](./Maths/Fibonacci.php)
+  * [Fibonacci2](./Maths/Fibonacci2.php)
+  * [Greatestcommondivisor](./Maths/GreatestCommonDivisor.php)
+  * [Mean](./Maths/Mean.php)
+  * [Median](./Maths/Median.php)
+  * [Mode](./Maths/Mode.php)
+  * [Neonnumber](./Maths/NeonNumber.php)
+  * [Perfectsquare](./Maths/PerfectSquare.php)
+  * Projecteuler
+    * [Problem1](./Maths/ProjectEuler/Problem1.php)
+    * [Problem10](./Maths/ProjectEuler/Problem10.php)
+    * [Problem11](./Maths/ProjectEuler/Problem11.php)
+    * [Problem2](./Maths/ProjectEuler/Problem2.php)
+    * [Problem3](./Maths/ProjectEuler/Problem3.php)
+    * [Problem4](./Maths/ProjectEuler/Problem4.php)
+    * [Problem5](./Maths/ProjectEuler/Problem5.php)
+    * [Problem6](./Maths/ProjectEuler/Problem6.php)
+    * [Problem7](./Maths/ProjectEuler/Problem7.php)
+    * [Problem8](./Maths/ProjectEuler/Problem8.php)
+    * [Problem9](./Maths/ProjectEuler/Problem9.php)
+
+## Searches
+  * [Binarysearch](./Searches/BinarySearch.php)
+  * [Exponentialsearch](./Searches/ExponentialSearch.php)
+  * [Fibonaccisearch](./Searches/FibonacciSearch.php)
+  * [Interpolationsearch](./Searches/InterpolationSearch.php)
+  * [Jumpsearch](./Searches/JumpSearch.php)
+  * [Linearsearch](./Searches/LinearSearch.php)
+  * [Lowerbound](./Searches/LowerBound.php)
+  * [Ternarysearch](./Searches/TernarySearch.php)
+  * [Upperbound](./Searches/UpperBound.php)
+
+## Sorting
+  * [Arraykeyssort](./Sorting/ArrayKeysSort.php)
+  * [Bubblesort](./Sorting/BubbleSort.php)
+  * [Bubblesort2](./Sorting/BubbleSort2.php)
+  * [Countsort](./Sorting/CountSort.php)
+  * [Gnomesort](./Sorting/GnomeSort.php)
+  * [Heapsort](./Sorting/HeapSort.php)
+  * [Insertionsort](./Sorting/InsertionSort.php)
+  * [Mergesort](./Sorting/MergeSort.php)
+  * [Quicksort](./Sorting/QuickSort.php)
+  * [Radixsort](./Sorting/RadixSort.php)
+  * [Selectionsort](./Sorting/SelectionSort.php)
+
+## Strings
+  * [Checkanagram](./Strings/CheckAnagram.php)
+  * [Checkpalindrome](./Strings/CheckPalindrome.php)
+  * [Checkpalindrome2](./Strings/CheckPalindrome2.php)
+  * [Countconsonants](./Strings/CountConsonants.php)
+  * [Countsentences](./Strings/CountSentences.php)
+  * [Countvowels](./Strings/CountVowels.php)
+  * [Distance](./Strings/Distance.php)
+  * [Maxcharacter](./Strings/MaxCharacter.php)
+  * [Reversestring](./Strings/ReverseString.php)
+  * [Reversewords](./Strings/ReverseWords.php)
+
+## Tests
+  * Ciphers
+    * [Atbashciphertest](./tests/Ciphers/AtbashCipherTest.php)
+    * [Cipherstest](./tests/Ciphers/CiphersTest.php)
+    * [Monoalphabeticciphertest](./tests/Ciphers/MonoAlphabeticCipherTest.php)
+    * [Morsecodetest](./tests/Ciphers/MorseCodeTest.php)
+    * [Railfenceciphertest](./tests/Ciphers/RailfenceCipherTest.php)
+    * [Vignereciphertest](./tests/Ciphers/VignereCipherTest.php)
+  * Conversions
+    * [Conversionstest](./tests/Conversions/ConversionsTest.php)
+  * Datastructures
+    * [Doublylinkedlisttest](./tests/DataStructures/DoublyLinkedListTest.php)
+    * [Singlylinkedlisttest](./tests/DataStructures/SinglyLinkedListTest.php)
+    * [Stacktest](./tests/DataStructures/StackTest.php)
+  * Graphs
+    * [Breadthfirstsearchtest](./tests/Graphs/BreadthFirstSearchTest.php)
+    * [Depthfirstsearchtest](./tests/Graphs/DepthFirstSearchTest.php)
+  * Maths
+    * [Mathstest](./tests/Maths/MathsTest.php)
+    * [Projecteulertest](./tests/Maths/ProjectEulerTest.php)
+  * Searches
+    * [Searchestest](./tests/Searches/SearchesTest.php)
+  * Sorting
+    * [Arraykeyssorttest](./tests/Sorting/ArrayKeysSortTest.php)
+    * [Gnomesorttest](./tests/Sorting/GnomeSortTest.php)
+    * [Sortingtest](./tests/Sorting/SortingTest.php)
+  * Strings
+    * [Stringstest](./tests/Strings/StringsTest.php)
+
+## Utils
+  * [Arrayhelpers](./Utils/ArrayHelpers.php)
+  * [Executiontime](./Utils/ExecutionTime.php)
