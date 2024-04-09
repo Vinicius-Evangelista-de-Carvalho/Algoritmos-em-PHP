@@ -14,9 +14,6 @@ The Implementations in this repo are examples and may be less efficient than the
 To Contribute to this repo please take your time to read our
 [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
 
-## Community Channels
-
-We're on [Discord](https://discord.gg/c7MnfGFGa6) and [Gitter](https://gitter.im/TheAlgorithms)! Community channels are great for you to ask questions and get help. Please join us!
 
 ## List of Algorithms
 
